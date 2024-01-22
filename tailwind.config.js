@@ -12,6 +12,18 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        brand: "#47D05D",
+        background: "#121212",
+        header: "#050505",
+        hover: "#313131",
+        textLight: "#FFFFFF",
+        textFaded: "#ABABAB",
+        border: "#313131",
+      },
+      gridTemplateColumns: {
+        player: "85px repeat(10, minmax(0, 1fr)) 85px;",
+      }, 
     },
   },
   plugins: [],
