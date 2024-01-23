@@ -33,7 +33,7 @@ const tracks = [
     {
         id: 4,
         src: "cheeboStarsOut.mp3",
-        title: "Smoother AF",
+        title: "No Rain... Stars Are Out",
         artist: "Cheebo",
         album: "Better Radio Call Signs",
         imgSrc: "https://unsplash.it/40/40",
