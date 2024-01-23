@@ -1,6 +1,6 @@
 # Better Throwback
 
-A Spotify-like clone done as an initial foray into a variety of media player application build processes for a future radio broadcast/podcast application to be developed for Better Radio.
+A Spotify-like clone done as an initial foray into a variety of media player application build processes for a future radio broadcast/podcast application to be developed for [Better Radio](https://betterradio.airtime.pro/).
 
 ![Web view on desktop](https://i.imgur.com/kktEPHV.png)
 
