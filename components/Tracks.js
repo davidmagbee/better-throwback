@@ -6,7 +6,7 @@ const tracks = [
     {
       id: 1,
       src: "helloNeighbor.mp3",
-      title: "Hello There Neighbor - Call Sign",
+      title: "Hello There Neighbor",
       artist: "DJ Fuzz",
       album: "Better Radio Call Signs",
       imgSrc: "https://unsplash.it/40/40",
@@ -15,7 +15,7 @@ const tracks = [
     {
       id: 2,
       src: "turnItUp.mp3",
-      title: "Turn It Up",
+      title: "I Can't Hear It...Turn It Up",
       artist: "DJ Fuzz",
       album: "Better Radio Call Signs",
       imgSrc: "https://unsplash.it/40/40",
@@ -24,7 +24,7 @@ const tracks = [
     {
       id: 3,
       src: "oldManCallSign.mp3",
-      title: "Old Man - Call Sign",
+      title: "Deep Blue Jazz",
       artist: "DJ Fuzz",
       album: "Better Radio Call Signs",
       imgSrc: "https://unsplash.it/40/40",
